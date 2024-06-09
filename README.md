@@ -67,6 +67,12 @@ The EDA stage involves analyzing trends and patterns in the data to gain a bette
 ## Statistical Analysis
 Statistical analysis is conducted to derive meaningful insights and identify patterns in the data. This includes performing summary statistics for numerical columns and correlation analysis to identify relationships between numerical variables.
 
+<center><img src="data/ObjectDescriptive.png" alt="ObjectDescriptive" width="600" height="300"/></center>
+
+<center><img src="data/NumericDescriptive.png" alt="NumericDescriptive" width="600" height="300"/></center>
+
+<center><img src="data/correlationheatmap.png" alt="correlationheatmap" width="600" height="300"/></center>
+
 ## Data Visualization
 Data visualization techniques are used to effectively present the findings and communicate insights. This includes creating various types of plots and visualizations to illustrate the distribution of accidents by various factors and exploring correlations between numerical variables.
 
