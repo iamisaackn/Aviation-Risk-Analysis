@@ -1,6 +1,6 @@
 # Aviation Risk Assessment Project Overview
 
-<img src="data/Airplane-Risk-Analysis-2.png" alt="logo" width="600" height="300"/>
+<center><img src="data/Airplane-Risk-Analysis-2.png" alt="logo" width="600" height="300"/></center>
 
 ## STUDENT INFORMATION
 
@@ -69,6 +69,15 @@ Statistical analysis is conducted to derive meaningful insights and identify pat
 
 ## Data Visualization
 Data visualization techniques are used to effectively present the findings and communicate insights. This includes creating various types of plots and visualizations to illustrate the distribution of accidents by various factors and exploring correlations between numerical variables.
+
+* Dashboard 1
+<center><img src="data/Dashboard 1.png" alt="Dashboard 1" width="600" height="300"/></center>
+
+* Dashboard 2
+<center><img src="data/Dashboard 2.png" alt="Dashboard 2" width="600" height="300"/></center>
+
+* Dashboard 3
+<center><img src="data/Dashboard 3.png" alt="Dashboard 3" width="600" height="300"/></center>
 
 ## Solution
 - Data Analysis Process:
