@@ -5,10 +5,10 @@
 ## STUDENT INFORMATION
 
 * Student name: Isaac Kinyanjui Ngugi
-* Student pace: Full Time Reomte
-* Scheduled project review date/time: 
+* Student pace: Full Time Remote
 * Instructor name: Mark Tiba & Faith Rotich
 * Google Slide: [Phase 1 Aviation Risk Analysis](https://docs.google.com/presentation/d/1WiK2iiQUtH-IwEqs-xX-qyjzECA0GWA-et_1vNcTuWs/edit?usp=sharing)
+* Presentation PDF: [Phase-1-Aviation-Risk-Analysis.pdf](./Phase-1-Aviation-Risk-Analysis.pdf)
 * Tableau: [Phase 1 Project Aviation Risk Analysis](https://public.tableau.com/views/Phase1ProjectAviationRiskAnalysis/Dashboard3?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Introduction
