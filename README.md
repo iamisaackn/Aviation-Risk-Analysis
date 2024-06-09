@@ -67,8 +67,6 @@ The EDA stage involves analyzing trends and patterns in the data to gain a bette
 ## Statistical Analysis
 Statistical analysis is conducted to derive meaningful insights and identify patterns in the data. This includes performing summary statistics for numerical columns and correlation analysis to identify relationships between numerical variables.
 
-<center><img src="data/ObjectDescriptive.png" alt="ObjectDescriptive" width="600" height="300"/></center>
-
 <center><img src="data/NumericDescriptive.png" alt="NumericDescriptive" width="600" height="300"/></center>
 
 <center><img src="data/correlationheatmap.png" alt="correlationheatmap" width="600" height="300"/></center>
