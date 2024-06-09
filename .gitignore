@@ -1,0 +1,33 @@
+# .gitignore file for a Jupyter notebook data analysis project
+
+# Ignore IPython Notebook checkpoints
+# These are temporary files that get created as you work on a notebook
+.ipynb_checkpoints/
+
+# Ignore Python compiled files
+# These are files that get created when Python compiles your code to bytecode
+*.pyc
+__pycache__/
+
+# Ignore all .env files
+# .env files usually contain sensitive information like passwords and API keys
+*.env
+
+# Ignore data files
+# You might want to ignore large data files to prevent them from being versioned
+*.csv
+*.xlsx
+*.json
+
+# Ignore log files
+# Log files are typically not versioned
+*.log
+
+# Ignore virtual environment files
+# If you're using a virtual environment, you don't want to version it
+venv/
+.env/
+
+# Ignore Jupyter notebook output files
+# These files get created when you convert a notebook to another format (like HTML or PDF)
+*.nbconvert.ipynb
